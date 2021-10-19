@@ -1,7 +1,3 @@
-/**
- * @author Dębkowski Franciszek S23061
- */
-
 package zad1;
 
 
